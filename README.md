@@ -20,8 +20,8 @@ const yo = {
 
 ## ⚙️ Stack tecnológico  
 ### 💡 Tecnologías que domino
+🖥 **Front-end:** HTML  
 🛠 **Back-end:** Python  
-🖥 **Front-end:** HTML
 🛎 **Otros:** Git  
 
 ### 🧠 Tecnologías que estoy apendiendo y perfeccionando
