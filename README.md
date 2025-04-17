@@ -21,10 +21,11 @@ const yo = {
 ## ⚙️ Stack tecnológico  
 ### 💡 Tecnologías que domino
 🛠 **Back-end:** Python  
+🖥 **Front-end:** HTML
 🛎 **Otros:** Git  
 
 ### 🧠 Tecnologías que estoy apendiendo y perfeccionando
-🖥 **Front-end:** HTML, CSS, Javascript, Typescript, Reactjs, Astro, Angular, Vuejs  
+🖥 **Front-end:** CSS, Javascript, Typescript, Reactjs, Astro, Angular, Vuejs  
 🛠 **Back-end:** SQL, Streamlit, Django, Wordpress, Java, Node.js, Rust, Go  
 
 ## 🎯 ¿En qué estoy ahora?  
