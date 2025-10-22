@@ -68,10 +68,8 @@ const yo = {
 
 ## ⚙️ GitHub Analytics
 
-<a href="https://github.com/Gpasadasfj/Gpasadasfj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpasadasfj&layout=compact&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gpasadasfj&show_icons=true&theme=dark"/>
-</a>
 
 ## 🎯 ¿En qué estoy ahora?
 
