@@ -68,8 +68,9 @@ const yo = {
 
 ## ⚙️ GitHub Analytics
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpasadasfj&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gpasadasfj&show_icons=true&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpasadasfj&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gpasadasfj&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+
 
 ## 🎯 ¿En qué estoy ahora?
 
