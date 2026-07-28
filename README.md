@@ -40,6 +40,7 @@ const yo = {
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" title="Streamlit"/>
+	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
 
 </div>
 
@@ -60,16 +61,9 @@ const yo = {
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
-
 </div>
-
-## ⚙️ GitHub Analytics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpasadasfj&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
-![Stats](https://github-readme-stats.vercel.app/api?username=Gpasadasfj&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
 
 ## 🎯 ¿En qué estoy ahora?
